@@ -1,0 +1,22 @@
+.khungtitle{
+    border: outset;
+    margin: 5px 10px 3px 20px;
+    text-align: center;
+    background-color:rgb(222, 44, 12) ;
+    width: 97%;
+  border-left: ;
+
+}
+.h2{
+    border: 10px rgb(red, green, blue) groove;
+    margin: 10px 15px 10px 15px ;
+    text-align: center;
+    background-color: rgb(141, 200, 12);
+}
+.anhtruong{
+  width: 100%;
+  
+}
+.anhnganh{
+  width: 100%;
+}
